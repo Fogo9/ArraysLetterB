@@ -1,14 +1,14 @@
 # **ARRAYS LETTER B**
 
-# Information
+## INFORMATION
 
 * **Program to print "B" with "star" using multidimensional arrays.**
 
-# Technologies Used
+## TECHNOLOGIES USED
 
 * **JAVA**
 
-# Contents
+## CONTENTS
 
 * The variables **int** and **String** are defined.
 
@@ -16,9 +16,7 @@
 
 * The letter B was formed using the i and j variables and the star symbol.
 
-<br />
-
-# Codes
+## CODES
 
 ```Java
 
@@ -81,13 +79,13 @@
 
 <br />
 
-# LINK
+## LINK
 
 * Click here https://github.com/Fogo9/ArraysLetterB.git to access the Github page for this project.
 
 <br />
 
-# LICENSE
+## LICENSE
 
 * This software is licensed By Tuncay Demir under the MIT license.
 
